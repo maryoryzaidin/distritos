@@ -1,0 +1,101 @@
+
+body{
+    margin:0px;
+    padding:0px;
+}
+
+h1{
+    color: #3b0303c9;
+    left: 1%;  
+}
+
+.menu{
+    
+    float:right;
+}
+.menu li{
+
+    padding: 10px;
+    display: inline-block;
+}
+
+
+.principal{
+    position: relative;
+    padding: 40px;
+    margin-top: 20px;
+    height: 100%;
+}
+
+}img[src*="logo2"]{
+    width: 90px;
+    height: 90px;
+}
+
+.lista-derecha a{
+    text-decoration: none;
+    text-align: right;
+    color: #3b0303c9;
+    gap: 10px;    
+    margin-bottom: 0;   
+    padding: 0;
+    list-style: none;
+    display:inline-block;
+    
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+footer{
+    background-color: rgb(86, 74, 74);
+    color: azure;
+    margin: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
